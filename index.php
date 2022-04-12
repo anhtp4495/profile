@@ -1,3 +1,3 @@
 <?php
-echo "<p>Welcome to PHP</p>";
+include "index.html";
 ?>
